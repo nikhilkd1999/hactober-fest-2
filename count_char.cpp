@@ -33,5 +33,6 @@ Print count of characters, count of digits and count of white spaces respectivel
     }
 
     cout << alpha_count << " " << digit_count << " " << space_count;
+    return 1;
     
 }
